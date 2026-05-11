@@ -12,3 +12,5 @@ The MD trajectories and data files required for the analyses are available on Ze
 Data: <https://zenodo.org/records/20096131>
 
 The notebooks are organised into folders according to protein/system name. Each folder contains the analysis scripts used to process simulation outputs, generate figures, and quantify structural and dynamical properties.
+
+Required Python packages: MDAnalysis, Numpy, Scipy, matplotlib, pandas
